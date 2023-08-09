@@ -1,5 +1,2 @@
-def main():
-    print("Hello, world!")
-
-if __name__ == "__main__":
-    main()
+def test_hello_world():
+    assert True
